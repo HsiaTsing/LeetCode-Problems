@@ -1,4 +1,4 @@
-#include "6-ZigZag-Conversion.h"
+#include "7-Reverse Integer.h"
 
 int main(){
 	Solution s;
