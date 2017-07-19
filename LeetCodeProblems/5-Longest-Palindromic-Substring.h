@@ -1,5 +1,5 @@
 #include <iostream>
-#include <vector>
+#include <string>
 
 using namespace std;
 
@@ -52,7 +52,7 @@ public:
 	void test(){
 
 		string s = "babad";
-		cout << longestPalindrome(s).c_str() << endl;
+		cout << longestPalindrome(s) << endl;
 	}
 
 };
