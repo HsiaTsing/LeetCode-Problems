@@ -1,4 +1,4 @@
-#include "7-Reverse Integer.h"
+#include "8-String-to-Integer-(atoi).h"
 
 int main(){
 	Solution s;
