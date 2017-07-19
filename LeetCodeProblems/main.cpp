@@ -1,4 +1,4 @@
-#include "8-String-to-Integer-(atoi).h"
+#include "9-Palindrome-Number.h"
 
 int main(){
 	Solution s;
